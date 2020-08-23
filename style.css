@@ -1,0 +1,60 @@
+
+
+.container{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    background-size: cover;
+    
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.container h1{
+    font-family: 'berlin sans fb';
+    font-size: 3vw;
+    color: lightcoral;
+    background-color:transparent;
+    
+    font-weight: bold;
+    align-content: center;
+   
+}
+
+.container h2{
+     
+    font-size: 1.5vw;
+    color: lightseagreen;
+    background-color: transparent;
+  
+    font-weight: bold;
+    align-content: center;
+   
+}
+
+
+.table{
+    margin-top: 40px;
+    margin-left: 460px;
+    margin-right: 400px;
+    font-size: 1vw;
+    border-radius: 2px;
+    
+    color: rgb(248, 200, 112);
+}
+
+
+.table td{
+    border: solid black 2px;
+}
+
+.table tr th{
+    border: solid black 2px;
+}
+
+.skfooter p{
+    
+    margin-top:40px;
+    color:white;
+}
